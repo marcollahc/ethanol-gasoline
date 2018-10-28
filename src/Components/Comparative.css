@@ -1,0 +1,32 @@
+.comparative-list {
+    float: left;
+    margin: 8px 10px;
+}
+
+.comparative-item {
+    width: 100%;
+    float: left;
+    margin: 0 0 10px 0;
+}
+
+.table-title-item {
+    width: 100%;
+    float: left;
+    margin: 0 0 10px 0;
+    text-align: center;
+}
+
+.table-cell-row {
+    width: 100%;
+    float: left;
+}
+
+.table-cell-title, .table-cell-content {
+    width: 50%;
+    float: left;
+    text-align: center;
+}
+
+.table-cell-title {
+    font-weight: 700;
+}
