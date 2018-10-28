@@ -9,3 +9,7 @@ header, footer {
   width: 100%;
   float: left;
 }
+
+input, button {
+  outline: none;
+}
